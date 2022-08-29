@@ -27,6 +27,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+![Screen Shot 2022-08-29 at 5 23 20 PM](https://user-images.githubusercontent.com/99697175/187303374-b805c6bc-ab9c-4f3c-b61c-394ee2f97185.png)
 
 Internet retail, also known as e-commerce, is the largest sector of the electronics industry, having generated an estimated US$29 trillion in 2017 (Source: United Nations Conference on Trade and Development). E-commerce platforms like Shopify and WooCommerce provide a suite of services to businesses of all sizes. Due to the prevalence of these platforms, developers should understand the fundamental architecture of e-commerce sites.
 
